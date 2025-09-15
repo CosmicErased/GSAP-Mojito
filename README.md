@@ -1,4 +1,5 @@
-![Mojito Project Screenshot](https://i.postimg.cc/52F83RnG/Screenshot-2025-09-14-at-12-19-19-AM.png)
+![Mojito Project Screenshot](https://i.ibb.co/vxNrfXGt/Screenshot-2025-09-14-at-12-19-19-AM.png)
+
 
 # 🍹 Mojito Project
 An interactive web experience built with **GSAP** to showcase a bar’s iconic drinks menu. Smooth animations bring each cocktail to life, making the browsing experience fun and engaging.
